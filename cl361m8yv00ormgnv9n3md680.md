@@ -1,8 +1,8 @@
 ## Linux Commands for Checking How much space Is left on a Disk
 
-In this guide, we will learn Linux commands for checking how much space remains on the disk. Apart from checking the amount of free space on the disk, the information on how much space files occupy is helpful in disk management.
+In this guide, we will learn Linux commands for checking how much space left on the disk. Apart from checking the amount of free space on the disk, the information on how much space files occupy is helpful in disk management.
 
-Also, we will explore how to combine these commands with other Linux commands to modify the resulting output. These commands work perfectly in Bash and Zsh.
+Also, we'll explore how to combine these commands with other Linux commands to modify the resulting output. These commands work perfectly in Bash and Zsh.
 
 ## 1.0. *df* Command
 This command displays the amount of space left on the disk. It gives concise information on disk usage for all the file systems and the partitions mounted on the disk. The letter *df* is an acronym for disk free.
@@ -19,11 +19,11 @@ tmpfs       4018184           0      4018184    0%   /sys/fs/cgroup
 /dev/loop0  114304       114304            0  100% /snap/core/12941
 ```
 
-There are several options available for this command. They help to modify the command output. An option is also known as a flag or a switch. Let's look at the commonly used options.
+Also, there are several options available for this command. These options help to modify the command output. Alternatively, an option is also known as a flag or a switch. Let's look at the commonly used options.
 
 ### 1.1. Human-Readable Format
 
-We can display file sizes from the df command output in a human-readable format using the *-h* flag. It instructs the command to output sizes to the nearest Kilobytes (K), Megabytes (M), Gigabytes (G), et cetera. To illustrate, let's run the command *df -h*.
+We can display file sizes with the df command output in a human-readable format using the *-h* flag. It instructs the command to output sizes to the nearest Kilobytes (K), Megabytes (M), Gigabytes (G), et cetera. To illustrate, let's run the command *df -h*.
 
 ```
 $ df -h
