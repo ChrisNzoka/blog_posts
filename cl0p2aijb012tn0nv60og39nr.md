@@ -1,9 +1,9 @@
 ## Linux File Permissions
 
-File permission is an important concept in computer security. Computer users would only want to give access to certain files and directories to those who need it. This is quite useful especially in computers with several users like home computer, workplace computer, school library computer, et cetera.
+File permission is an important concept in computer security. Computer users would only want to give access to certain files and directories to those who need it. This is quite useful, especially on computers with several users like home computers, workplace computers, school library computers, et cetera.
 
 ## What You Will Learn
-By the time you're done reading through this guide, you'll learn;
+In this guide, you'll learn;
 
 - Linux file permissions 
 - How to change permissions, owner and group of a file/folder
@@ -15,19 +15,20 @@ By the time you're done reading through this guide, you'll learn;
 
 ## Types of File Permission in Linux
 
-Files and directories on a Linux system are assigned access permissions for the owner of each file, the members of a group of related users, and everybody else. Permissions can be assigned to read, write, and execute a file. (i.e., run the file as a program).
+Files and directories on a Linux system are assigned access permissions for the owner of each file, the members of a group of related users, and everybody else. A user can assign permissions to read, write, and execute a file. (i.e., run the file as a program).
 
-**Read**, this allows someone to read the contents of a file or folder.
+
+- **Read**, allows someone to read the contents of a file or folder.
  
-**Write**, this allows someone to write information to a file or folder. 
+- **Write**, allows someone to write information to a file or folder. 
 
-**Execute**, this allows someone to execute a program. 
+- **Execute**, allows someone to execute a program. 
 
 ## Checking Permissions
 
-Before you change the permission of a file or folder, check the current permissions of the file or folder.
-
 For the purpose of this tutorial, create a directory with two files in it using the `mkdir` and `touch` command.
+
+Before you change the permission of a file or folder, first, check the current permissions of the file or folder.
 
 **First**, open the terminal with `ctrl + alt + T`
 
@@ -39,7 +40,7 @@ You should have a shell that looks like this:
 
 ### Creating Folders
 
-Create the folder, `My_cool_folder` with the `mkdir` command:
+Further, create the folder, `My_cool_folder` with the `mkdir` command:
 
 ```
 mkdir My_cool_folder
@@ -51,8 +52,7 @@ The folders were successfully created!!!
 
 ### Creating Files
 
-Now, you can create files within the folder using the `touch` command.
-
+Now, you can create files within the folder using the `touch` command:
 ```
 touch My_cool_folder/butter My_cool_folder/coffee
 ```
@@ -60,19 +60,19 @@ On entering the command above, the files `butter` and `coffee` are created in `M
 
 ### Checking File Permissions
 
-Take a look at the permissions of the file `butter` in `My_cool_folder`. Then change into `My_cool_folder` directory with the command 
+Now, take a look at the permissions of the file `butter` in `My_cool_folder`. Then change into `My_cool_folder` directory with the command:
 
 ```
 cd My_cool_folder
 ```
-To display the ownership and permissions for a file, use `ls` with the -l flag and the name of the file you're interested in as below.
+Next, to display the ownership and permissions for a file, use `ls` with the -l flag and the name of the file you're interested:
 
 ```
 ls -l butter
 ```
 
 ![Shell_display-3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647011428529/1vtnrvqvA.png)
-From the output on the terminal;
+From the output on the terminal you can see that;
 
 - The file `butter` is owned by user `vagrant`
 - The user has the right to read, write, but cannot execute this file
@@ -83,9 +83,9 @@ From the output on the terminal;
 
 ![file_permissios-2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646881681167/V0zN4dlrU.png)
 
-The first thing seen in this column is -rw-rw-r--. There are 10 bits here. The first one is the file type. In this example, dash`-` signifies a file. If there is `d` in place of first dash `-`, then it is a directory. 
+The first thing seen in this column is -rw-rw-r--. There are 10 bits here. The first one is the file type. In this example, dash`-` signifies a file. However, if there is `d` in place of first dash `-`, then it is a directory. 
 
-The next nine bits are the actual permissions, they're grouped in trios or sets of three. The first trio refers to the permission of the owner of the file. The second trio refers to the permission of the group that this file belongs to. The last trio refers to the permission of all other users. 
+Further, the next nine bits are the actual permissions. They're grouped in trios or sets of three. The first trio refers to the permission of the owner of the file. The second trio refers to the permission of the group that this file belongs to. The last trio refers to the permission of all other users. 
 
 `r` stands for readable, `w` stands for writeable and `x` stands for executable. 
 
