@@ -1,4 +1,4 @@
-# Technical Writing: Six Reasons You Should Write Technical Articles
+# Technical Writing: Six Reasons You Should Write
 
 ## 1\. Overview
 
@@ -29,7 +29,7 @@ Let's see some reasons why we should learn technical writing.
 
 Technology is ubiquitous. **The majority of experts today learned what they know from others who were willing to share their knowledge.**
 
-From courses (paid and free) to tutorials and tips shared on various platforms including **FreeCodeCamp**, **Hashnode**, **Medium**, et cetera.
+From courses (paid and free) to tutorials and tips shared on various platforms, including **FreeCodeCamp**, **Hashnode**, **Medium**, et cetera.
 
 Further, this act of sharing helps in the following ways:
 
@@ -48,7 +48,7 @@ Now, let's recall going back to review the scripts and codes we wrote while lear
 
 Similarly, **technical writing affords us the chance to document our progress in learning**. It also aids in keeping track of everything else we've learned while attempting to break into a technical profession.
 
-Perhaps we couldn't get to making videos and spending time editing them. However, **we can easily write out our opinion on any subject matter.**
+Perhaps we couldn't get around to making videos and spending time editing them. However, **we can easily write out our opinion on any subject matter.**
 
 ```markdown
 **Hey, don't wait! Start now!**
@@ -62,7 +62,7 @@ Now, how do we cement what we've learned?
 
 **Technical writing provides the opportunity to learn and teach.** In fact, I didn't know half of the content of this article until I researched, learned, and shared it with you.
 
-**Writing encourages us to study and pick up new skills**. Plus, it offers the ideal opportunity to learn more on the subject and improve our learning abilities.
+**Writing encourages us to study and pick up new skills**. Plus, it offers the ideal opportunity to learn more about the subject and improve our learning abilities.
 
 **Writing is the perfect assurance that we know what we know.**
 
@@ -100,7 +100,7 @@ In summary, we have seen some of the reasons to create technical documents. We s
 
 ---
 
-## *Recommendations*
+## 4\. Recommendations
 
 Lastly, learning is a continuum. You can take up the task of sharing knowledge with others through technical writing.
 
