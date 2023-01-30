@@ -1,96 +1,116 @@
-## Technical Writing: Six Reasons You Should Write Technical Articles
+# Technical Writing: Six Reasons You Should Write Technical Articles
 
-The need to write technical manuals, software tutorials, handbooks, technical guides, and/or provide online help is very essential in this era.
+## 1\. Overview
 
-As a professional in any technical field, you should know that technical writing is not just for talented writers. Anybody can develop his/her writing skills. 
+**Technical writers acquire or provide technical information for professional use**. Also, technical writers must structure and present information in a way that makes it readable, clear, and useful.
 
-Technical writing easily comes to mind for so many reasons which you'll get to see in this article. It has grown to become a necessity as more people seek for an economic and quick way to learn.
+In this article, **we'll learn six reasons why we should write technical documents**.
 
-> Technical writers create or gather technical information. This information is organized and presented in such a way that it is readable, understandable and useful to a defined audience. ([Source: Moscow Institute of Physics and Technology](https://www.coursera.org/learn/technical-writing))
+## 2\. Why Technical Writing?
 
-In this article, I will highlight the various reasons why techies like IT specialists, software developers and other professionals in technical fields write.
+Of course, there are several ways to pass information to a specified audience. However, technical writing is one of the easiest and quickest ways to do so.
 
-## Why Technical writing?
+**Technical writing has grown to become a necessity as more people seek an economical and quick way to learn.**
 
-There are several ways to pass information to a specified audience. Technical writing is one of the easiest and a quick way to do so. 
+Currently, it is essential to develop technical writing skills. This skill would help professionals in technical fields provide online help through:
 
+* technical manuals
+    
+* software tutorials
+    
+* handbooks
+    
+* technical guides
+    
 
-## Reasons to write:
+Let's see some reasons why we should learn technical writing.
 
-Some of the major reasons to engage in technical writing include;
+### 2.1. Sharing Knowledge
 
-### To share knowledge
+Technology is ubiquitous. **The majority of experts today learned what they know from others who were willing to share their knowledge.**
 
-Technology is ubiquitous. Most professionals today learnt what they know from other professionals who cared to share their knowledge. From courses (paid and free) to tutorials and tips shared on various platforms including freecodecamp, hashnode, medium, etc.
+From courses (paid and free) to tutorials and tips shared on various platforms including **FreeCodeCamp**, **Hashnode**, **Medium**, et cetera.
 
-This act of sharing help to make information easily accesible to learners, enhance quick learning through well written guidelines and significantly reduce the time and energy wasted in search for solutions to everyday problems.
+Further, this act of sharing helps in the following ways:
 
-Consider sharing what you already know or learnt through technical writing. You will find out how to get started as you read on.
+* makes information easily accessible to learners
+    
+* enhances quick learning through well-written guidelines
+    
+* reduces the time and energy wasted in the search for solutions to everyday problems
+    
 
-### To document one's learning process
+Hence, **we should consider sharing what we already know or learned through technical writing**. We can find out how to get started as we read on.
 
-Have you tried going back in time to check out codes and scripts you wrote when you first started out as a software developer? You will feel thankful for how quickly you've developed yourself. 
+### 2.2. Documenting our Learning Process
 
-Similarly, technical writing affords you the chance to document not just codes or processes but every other thing you learnt while trying to break out as a software developer.
+Now, let's recall going back to review the scripts and codes we wrote while learning to code. We become appreciative of how swiftly we've grown.
 
-Perhaps you couldn't get to make video and spend time editing them; you can easily write out your opinion on any subject matter. Don't wait, start now.
+Similarly, **technical writing affords us the chance to document our progress in learning**. It also aids in keeping track of everything else we've learned while attempting to break into a technical profession.
 
+Perhaps we couldn't get to making videos and spending time editing them. However, **we can easily write out our opinion on any subject matter.**
 
-### Learn by teaching: Knowledge reinforcement
+```markdown
+**Hey, don't wait! Start now!**
+```
 
-Have you ever doubted your own knowledge? Well, one way to clear that doubt is by teaching that subject matter. There and then, you will be in a position to evaluate yourself and reinforce your knowledge on that topic.
+Now, how do we cement what we've learned?
 
-Technical writing provides the opportunity to learn and teach. Consider the fact that I actually didn't know half of the content of this article until I researched, learnt and shared with you. 
+### 2.3. Learning From Teaching
 
-Writing will lead you to research and learn new thing. It provides the perfect chance to go deep into a particular topic you're to write about as well as develop your learning skills.
+**Have you ever doubted your own knowledge?** **One way to dispel our skepticism is to teach the subject.** There and then, we'll be in a position to evaluate ourselves and reinforce our knowledge on that topic.
 
-It is the perfect assurrance that you know what you know.
+**Technical writing provides the opportunity to learn and teach.** In fact, I didn't know half of the content of this article until I researched, learned, and shared it with you.
 
+**Writing encourages us to study and pick up new skills**. Plus, it offers the ideal opportunity to learn more on the subject and improve our learning abilities.
 
-### Subject matter expertise
+**Writing is the perfect assurance that we know what we know.**
 
-Instead of depending on subject matter experts for everything, you can become the subject matter expert yourself.
+### 2.4. Becoming a Subject Matter Expert
 
-> Subject matter experts, also called SMEs, are professionals who have advanced knowledge in a specific field. As an authority in a particular area or topic, they are uniquely qualified to provide guidance and strategy. ([Source: Indeed](https://www.indeed.com/career-advice/career-development/subject-matter-expert)) 
+**Instead of depending on subject matter experts for everything, we can become subject matter experts ourselves.**
 
-There are many reasons why it's a good idea for a technical writer to gain extensive knowledge of his/her niche. You will gain respect of other professionals in your field and be able to talk to them with some intelligence. 
+> Subject matter experts, also called SMEs, are professionals who have advanced knowledge in a specific field. As an authority in a particular area or topic, they are uniquely qualified to provide guidance and strategy. ([Source: Indeed](https://www.indeed.com/career-advice/career-development/subject-matter-expert))
 
-Added to that, you will be able to determine whether information you receive or read is correct. You will be able to write much faster than you would if you know nothing. This will give you confidence as well, that your documentation is accurate even when it has not been sufficiently reviewed by subject matter experts.
+For a variety of reasons, it makes sense for technical writers to establish themselves as experts in their industry. We will gain the respect of other professionals in our sector. We even get to have informative conversations with them.
 
-Technical writing is a right path to becoming a subject matter expert. You can read further on the [steps to become a subject matter expert](https://www.indeed.com/career-advice/career-development/subject-matter-expert).
+Further, **it is easier for us to evaluate the accuracy of the information we read or receive as subject matter experts.**
 
+Writing also provides others with the certainty that our content is accurate. This is so, even if subject matter specialists have not thoroughly reviewed it. However, the case is different for those who neither write nor teach.
 
+Certainly, **technical writing is the right path to becoming a subject matter expert**. We can read further on the [steps to become a subject matter expert](https://www.indeed.com/career-advice/career-development/subject-matter-expert).
 
-### Passive income
+### 2.5. Earning Passive Income
 
-Yes, you can earn real money from writing technical articles. Have you heard of **freelance technical writers**? Those guys earn some money in technical writing. 
+Indeed, we can make good money writing technical articles. By creating helpful content, technical writers can earn a lot of money.
 
-Most professionals took up technical writing to earn an extra income while they still pursue their career goals. This is possible as there are several platforms that will pay to have your articles published on their platforms provided you meet their standards.
+Most experts began producing technical content to supplement their income and advance their careers. Since many platforms will pay to post our writings on their networks, this is a possibility. Additionally, **businesses employ technical writers full-time to produce and maintain technical documentation.**
 
-There's a separate article for websites that pay technical writers to publish articles on their platforms. 
-For a start, you can practise your writing skill by signing up and creating a blog on [hashnode](https://hashnode.com). 
+### 2.6. Scaling Through Interviews
 
-### Scale through Interviews
+Notably, **the documents and content we post online help us become more visible on the internet**. Recruiters are continuously searching for qualities that set a candidate apart as the best one for a position.
 
-The articles you've written and published leaves a trail of your presence on the world wide web. Recruiters constantly look out for things that make you stand out as an ideal candidate for a job.
+Say I applied for the *senior technical writer* role for *Google Cloud* at Google. In addition to that, I have written close to a hundred articles about *Google Cloud*. The recruiters can readily utilize that to assess my expertise on the subject. In fact, it can even elevate me to the level of subject matter expert on Google Cloud.
 
-Imagine you have written close to a hundred articles on topics related to the job? They can easily use that to gauge your knowledge in that area. It can even go as far as positioning you as a subject matter expert. 
+Thus, **let's consider waving our pens as we learn**. All it'll take is for someone to admire our effort.
 
-Think about this and brandish your pen as you learn. All it takes is for someone to admire your effort.
+## 3\. Conclusion
 
-### Finally
+In summary, we have seen some of the reasons to create technical documents. We started by explaining the role of technical writers. Then, we detailed some of the reasons why we should write.
 
-Having read through to this point, you must have added one more to the reason why you initially want to take up technical writing. Luckily, hashnode made it easier for you to start right away. On hashnode, you can develop your skill and move on to publish on as many other platforms as you like.
+---
 
-## Recommendations
+## *Recommendations*
 
-Learning is a continium. You can take up the task of sharing knowledge to others through technical writing.
-There are several guidelines on how to get started. 
+Lastly, learning is a continuum. You can take up the task of sharing knowledge with others through technical writing.
 
-You may kick off by taking a course on technical writing. Consider the 13-hour course "Technical writing" on cousera by [Moscow Institute of Physics and Technology](https://www.coursera.org/learn/technical-writing).
+Here are several guidelines on how to get started:
 
-[Freecodecamp](https://www.freecodecamp.org/news/developer-news-style-guide/) has a fantastic guide on technical writing for software developers and IT professionals alike.
+1. You can take a technical writing course. Consider the 13-hour course "Technical writing" on Coursera by the [Moscow Institute of Physics and Technology](https://www.coursera.org/learn/technical-writing).
+    
+2. [FreeCodeCamp](https://www.freecodecamp.org/news/developer-news-style-guide/) has a fantastic guide on technical writing for software developers and IT professionals alike.
+    
+3. You can start up by simply creating a blog on [Hashnode](https://hashnode.com) with a subdomain and your workspace is ready to go.
+    
 
-You can start up by simply creating a blog [hashnode](https://hashnode.com) with a subdomain and your workspace is ready to go. 
-
-
+Don't wait! Start right away!
