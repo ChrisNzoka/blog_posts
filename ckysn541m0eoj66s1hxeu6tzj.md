@@ -2,7 +2,7 @@
 
 ## 1\. Overview
 
-**Technical writers acquire or provide technical information for professional use**. Also, technical writers must structure and present information in a way that makes it readable, clear, and useful.
+**Technical writers acquire or provide technical information for professional use**. Also, they structure and present information in a way that makes it readable, clear, and useful to the audience.
 
 In this article, **we'll learn six reasons why we should write technical documents**.
 
