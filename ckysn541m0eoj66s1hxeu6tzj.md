@@ -111,6 +111,7 @@ Here are several guidelines on how to get started:
 2. [FreeCodeCamp](https://www.freecodecamp.org/news/developer-news-style-guide/) has a fantastic guide on technical writing for software developers and IT professionals alike.
     
 3. You can start up by simply creating a blog on [Hashnode](https://hashnode.com) with a subdomain and your workspace is ready to go.
-    
+
+4. Lastly, check out the [Google Technical Writing](https://developers.google.com/tech-writing)  Course to learn and develop your technical writing skill.
 
 Don't wait! Start right away!
